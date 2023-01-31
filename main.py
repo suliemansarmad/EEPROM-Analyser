@@ -5,9 +5,9 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-image = Image.open('C:\\Users\\Hamza Tufail\\Downloads\\logo.png')
+#image = Image.open('C:\\Users\\Hamza Tufail\\Downloads\\logo.png')
 
-st.image(image, width=120)
+#st.image(image, width=120)
 
 st.title("EEPROM Data Analyser V1.01")
 
