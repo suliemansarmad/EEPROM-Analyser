@@ -5,7 +5,7 @@ import warnings
 
 warnings.filterwarnings("ignore")
 
-#image = Image.open('C:\\Users\\Hamza Tufail\\Downloads\\logo.png')
+#image = Image.open('/Users/suliemansarmad/Desktop/logo.png')
 
 #st.image(image, width=120)
 
