@@ -11,7 +11,8 @@ warnings.filterwarnings("ignore")
 
 st.title("EEPROM Data Analyser V1.01")
 
-st.write("Suleiman Sarmad")
+st.write("Beam Global")
+#st.write("Sulieman Sarmad")
 
 # try:
 # dataset = st.file_uploader("upload file here", type=['trc'])
